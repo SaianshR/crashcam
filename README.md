@@ -53,7 +53,7 @@ This chart updates on Qubitro with every crash that gets detected.
 ## Improvements
 The project was ultimately a success, however improvements can be made to create a better process and system. We included the code to send an SOS message but it was never used. Additionally, the code could be improved to be always recording and create a clip of the recording.
 
-Big thanks to @aster94 for the GoPro Control library linked below.
+Big thanks to @aster94 for the GoPro Control library linked below. While it didn't work in the state that we found it, it helped our purpose with a few useful modifications.
 https://github.com/aster94/GoProControl
 
 **Group Members** :  Saiansh Raizada and Steven Hobson
